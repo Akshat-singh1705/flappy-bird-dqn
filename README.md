@@ -103,7 +103,4 @@ flappybirdv0:
    $$Q_{\text{target}}(s, a) = r + \gamma \cdot \max_{a'} Q_{\text{target\_net}}(s', a')$$
 
 ---
-
-## License
-
-This project is open-source under the [MIT License](LICENSE).
+Thanks for Visiting.
