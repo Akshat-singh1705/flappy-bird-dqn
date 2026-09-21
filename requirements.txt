@@ -1,0 +1,6 @@
+torch
+gymnasium
+flappy-bird-gymnasium
+pygame
+pyyaml
+imageio
